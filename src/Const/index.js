@@ -1,0 +1,5 @@
+export const SEARCH="SEARCH"
+export const ADD="ADD"
+export const DELETE="DELETE"
+export const EDIT="EDIT"
+export const RATING="RATING"

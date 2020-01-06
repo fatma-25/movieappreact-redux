@@ -1,0 +1,57 @@
+.search{
+    /* margin-right:20px; */
+    display: flex;
+    justify-content: center;
+    padding: 50px
+   
+  }
+  
+  .moviecard{
+      border:3px solid gray;
+      width:300px;
+      margin: 30px;
+  }
+  h1{
+     border-top:3px solid gray; 
+  }
+  .star{
+      border-bottom: 1px solid gray;
+  }
+  
+  .addbutton{
+    
+      display: flex;
+      justify-content: center;
+      
+  }
+
+  .Raiting{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  
+  .movieadd{
+      display: flex;
+      flex-direction: column;
+     
+      width: 300px;
+  }
+  #input2{
+      height:300px;
+  }
+  
+ 
+  
+  .conteiner{
+      display: flex;
+      justify-content: center;
+      /* justify-content: space-around; */
+      margin:50px;
+  }
+  
+  .inputcont{
+      display: flex;
+      flex-direction: column;
+  }
